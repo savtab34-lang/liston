@@ -117,9 +117,6 @@ https://passaggio.onrender.com/proxy/hls/manifest.m3u8?api_password=Leggila&d=ht
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 https://passaggio.onrender.com/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://vavoo.to/vavoo-iptv/play/246253359a81d94887441&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://passaggio.onrender.com/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
 https://passaggio.onrender.com/proxy/hls/manifest.m3u8?api_password=Leggila&d=https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
